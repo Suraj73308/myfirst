@@ -5,4 +5,6 @@ system.out.println("Hello World");
 int a = 10 ;
 int b = 20;
 System.out.println("Adding a and b " + (a+b));
+
+System.out.println("Subtarcting a and b " + (a-b));
 }
