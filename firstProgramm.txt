@@ -1,12 +1,18 @@
 public class HelloWorld;
 public static void main(String args[]){
-system.out.println("Hello World");
+System.out.println("Hello World");
 
 int a = 10 ;
 int b = 20;
 System.out.println("Adding a and b " + (a+b));
 
 System.out.println("Subtarcting a and b " + (a-b));
+
+for (int i=0 , i<=10, i++){
+System.out.println("Hello World");
+}
+//ending for loop
+
 }
 
 System.out.println("Thank You");
