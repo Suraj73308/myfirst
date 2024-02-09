@@ -8,3 +8,5 @@ System.out.println("Adding a and b " + (a+b));
 
 System.out.println("Subtarcting a and b " + (a-b));
 }
+
+System.out.println("Thank You");
